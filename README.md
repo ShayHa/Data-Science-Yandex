@@ -14,3 +14,15 @@ First Course: Data preprocessing
 	<li> identified duplicate data and processed it in several different ways</li>
 	<li> learned how to categorize data</li>
 </ol>
+
+
+Second Course: Exploratory data analysis
+<strong> In this course I have learned and solved: </strong>
+<ol>
+	<li> To build graphs using various methods such as: hist, boxplot, and plot </li>
+	<li> Selectively change values via the where() method </li>
+	<li> Assign values according to indices and strings </li>
+	<li> Combine data with the join() method</li>
+	<li> Identify and interpret correlations in various types of data </li>
+	<li> Start the process for building graphs </li>
+</ol>
