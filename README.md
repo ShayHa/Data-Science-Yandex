@@ -17,6 +17,7 @@ First Course: Data preprocessing
 
 
 Second Course: Exploratory data analysis
+
 <strong> In this course I have learned and solved: </strong>
 <ol>
 	<li> To build graphs using various methods such as: hist, boxplot, and plot </li>
