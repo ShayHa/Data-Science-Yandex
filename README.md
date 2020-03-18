@@ -27,3 +27,15 @@ Second Course: Exploratory data analysis
 	<li> Identify and interpret correlations in various types of data </li>
 	<li> Start the process for building graphs </li>
 </ol>
+
+Third Course: Exploratory data analysis
+
+<strong> In this course I have learned and solved: </strong>
+<ol>
+	<li> learned to choose the optimal metrics for data description </li>
+	<li> learned to define the necessary histogram type to assess continuous and discrete variables </li>
+	<li> learned to draw conclusions on the data from statistical metrics </li>
+	<li> learned to understand the basic notions of probability theory</li>
+	<li> learned to define and calculate both normal and binomial distributions </li>
+	<li> learned to formulate and test hypotheses </li>
+</ol>
