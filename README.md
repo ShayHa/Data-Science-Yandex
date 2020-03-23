@@ -1,7 +1,7 @@
 # Data-Science-Yandex
 Data Science course Practicum by Yandex
 
-First Course: Data preprocessing
+### First Course: Data preprocessing
 
 <strong> In this course I have learned and solved: </strong>
 <ol>
@@ -16,7 +16,7 @@ First Course: Data preprocessing
 </ol>
 
 
-Second Course: Exploratory data analysis
+### Second Course: Exploratory data analysis
 
 <strong> In this course I have learned and solved: </strong>
 <ol>
@@ -28,7 +28,7 @@ Second Course: Exploratory data analysis
 	<li> Start the process for building graphs </li>
 </ol>
 
-Third Course: Exploratory data analysis
+### Third Course: Exploratory data analysis
 
 <strong> In this course I have learned and solved: </strong>
 <ol>
@@ -39,3 +39,8 @@ Third Course: Exploratory data analysis
 	<li> learned to define and calculate both normal and binomial distributions </li>
 	<li> learned to formulate and test hypotheses </li>
 </ol>
+
+### Integrated Project #1
+
+<p> In this project I bring together all I've learned so far, in my first integrated project,
+ a <strong> real-life analytical case study.</strong> </p>
