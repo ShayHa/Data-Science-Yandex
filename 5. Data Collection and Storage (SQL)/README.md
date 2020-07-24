@@ -9,4 +9,5 @@
 of external factors on rides.
 You'll study a database, analyze data from competitors,
  and test a hypothesis about the impact of weather on ride frequency.</p>
+ 
 ![Table Schema](https://pictures.s3.yandex.net/resources/Untitled_1_1585510727.png)
